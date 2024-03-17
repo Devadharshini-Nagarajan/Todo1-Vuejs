@@ -1,6 +1,9 @@
 # Vue Todo App
 
-This is a simple Todo application created using Vue.js. It allows users to add, strike out, and remove todos. The app fetches 5 todos by default from an external API (JSONPlaceholder). It consists of two pages: Home and About.
+This is a simple Todo application created using Vue.js. It allows users to add, strike out, and remove todos. The app fetches 5 todos by default from an external API (JSONPlaceholder). It consists of two pages: Home and About. You can use the app online by visiting [TODO]([https://webofdeva-tictactoe.netlify.app](https://webofdeva-todo-vue.netlify.app/#/)).
+
+<img width="1412" alt="image" src="https://github.com/Devadharshini-Nagarajan/Todo1-Vuejs/assets/113491692/076e5e02-98e7-4843-af10-ab1b0fc155eb">
+
 
 ## Features
 
